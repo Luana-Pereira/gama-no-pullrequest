@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+
+ Incrível, não tinha noção o que era Git... Estou amando!!!
